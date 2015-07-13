@@ -9,3 +9,13 @@
 
 # RStudio files
 .Rproj.user/
+
+# backup files
+*~
+
+## Ignore all the work files for the manuscript / data etc (sorry!)
+fig/*
+manuscript/*
+data/*
+car1-coefs-phi.csv
+helen-email
