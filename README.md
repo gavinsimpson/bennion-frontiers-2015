@@ -55,8 +55,8 @@ There are five `.R` files included here which do the following:
  core data presented in the paper.
  3. `wiser-analysis.R` contains the code to do the passive overlay of the
  core samples on to deep and shallow-lake training sets, aka timetracks.
- This work was done as part of the EU Sixth Framework Programm project
- WISER, hence the file name.
+ This work was done as part of the EU Seventh Framework Programme project
+ [WISER](http://www.wiser.eu), hence the file name.
  4. `principal-curves.R` fits principal curves to each of the sediment
  core records.
  5. `additive-modelling-prcurve-data-script.R` contains the time series
